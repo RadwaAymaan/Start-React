@@ -1,0 +1,46 @@
+#about{
+    background-color: #1abc9c;
+    padding: 8rem 0;
+    height: 100vh;
+}
+.about-line-space{
+    width: 100%;
+    margin: 1.25rem 0 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-line{
+    background-color:#fff;
+    width: 100%;
+    max-width:7rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.about-star-icon i{
+    color: #fff;
+}
+.content-box{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-left: -1.5rem !important;
+    margin-right: -1.5rem !important; */
+    justify-content: center;
+}
+.about-para{
+    font-size: 1.25rem ;
+    font-weight: 500;
+}
+/* .lead{
+    font-size: 1.25rem !important;
+    font-weight: 300 !important;
+} */
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+/* .about-box{
+    margin: auto !important;
+} */

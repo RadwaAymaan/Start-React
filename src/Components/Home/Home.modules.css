@@ -1,0 +1,47 @@
+.home-img{
+    width: 15rem;
+}
+.box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+#home{
+    padding-top: calc(2.5rem + 104px);
+    padding-bottom: 2.5rem;
+    background-color: #1abc9c;
+    height: 100vh;
+}
+#home .home-header{
+    font-size: 4rem !important;
+    line-height: 3.5rem !important;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+#home .home-line-space{
+    width: 100%;
+    margin: 1.25rem 0 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#home .home-line{
+    background-color: #fff;
+    width: 100%;
+    max-width:7rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+#home .home-star-icon i{
+    color: #fff;
+}
+#home .home-para{
+    font-size: 1.5rem;
+    color: #fff;
+    font-weight: 400 !important;
+    margin-bottom: 0;
+    margin-top: 0;
+}
